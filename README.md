@@ -7,6 +7,7 @@
 This repository is the implementation for our SIGGRAPH 2022 paper: "Interactive Augmented Reality Storytelling Guided by Scene Semantics"
 
 [[Paper](https://changyangli.github.io/assets/paper/sig22arstorytelling.pdf)] [[Video](https://www.youtube.com/watch?v=LGzH2LikEUw&feature=youtu.be)] [[Project page](https://changyangli.github.io/projects/siggraph22arstorytelling/)]
+
 [Changyang Li](https://changyangli.github.io/), [Wanwan Li](), [Haikun Huang](https://quincyhuang.github.io/Webpage/), [Lap-Fai Yu](https://craigyuyu.github.io/home/)
 
 
